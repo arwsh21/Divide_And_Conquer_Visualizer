@@ -1,0 +1,70 @@
+
+Dataset: closest_01.txt
+Number of Points: 110
+Closest Point 1: (62814, 24301)
+Closest Point 2: (62070, 24623)
+Minimum Distance: 810.6911
+Execution Time: 0.000584 seconds
+
+Dataset: closest_02.txt
+Number of Points: 150
+Closest Point 1: (47149, 33661)
+Closest Point 2: (47857, 33344)
+Minimum Distance: 775.7274
+Execution Time: 0.001014 seconds
+
+Dataset: closest_03.txt
+Number of Points: 200
+Closest Point 1: (5372, 21255)
+Closest Point 2: (5845, 21366)
+Minimum Distance: 485.8498
+Execution Time: 0.001293 seconds
+
+Dataset: closest_04.txt
+Number of Points: 300
+Closest Point 1: (91850, 67390)
+Closest Point 2: (91779, 67535)
+Minimum Distance: 161.4497
+Execution Time: 0.002633 seconds
+
+Dataset: closest_05.txt
+Number of Points: 400
+Closest Point 1: (84935, 25491)
+Closest Point 2: (84985, 25405)
+Minimum Distance: 99.4786
+Execution Time: 0.003228 seconds
+
+Dataset: closest_06.txt
+Number of Points: 500
+Closest Point 1: (48296, 20197)
+Closest Point 2: (48438, 20080)
+Minimum Distance: 183.9918
+Execution Time: 0.004657 seconds
+
+Dataset: closest_07.txt
+Number of Points: 600
+Closest Point 1: (14856, 21265)
+Closest Point 2: (14763, 21305)
+Minimum Distance: 101.2373
+Execution Time: 0.004855 seconds
+
+Dataset: closest_08.txt
+Number of Points: 700
+Closest Point 1: (11049, 8538)
+Closest Point 2: (11087, 8392)
+Minimum Distance: 150.8642
+Execution Time: 0.005295 seconds
+
+Dataset: closest_09.txt
+Number of Points: 800
+Closest Point 1: (42626, 49253)
+Closest Point 2: (42632, 49126)
+Minimum Distance: 127.1417
+Execution Time: 0.005793 seconds
+
+Dataset: closest_10.txt
+Number of Points: 1000
+Closest Point 1: (51286, 86408)
+Closest Point 2: (51298, 86410)
+Minimum Distance: 12.1655
+Execution Time: 0.007927 seconds
